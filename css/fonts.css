@@ -22,7 +22,7 @@
   url("../fonts/CleanvertisingLight/CleanvertisingLight.woff") format("woff"),
   url("../fonts/CleanvertisingLight/CleanvertisingLight.ttf") format("truetype"); }
 @font-face {
-    font-family: 'myFont';
+    font-family: 'myfont';
     src: url('../fonts/myfont/myfont-webfont.eot');
     src: url('../fonts/myfont/myfont-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/myfont/myfont-webfont.woff2') format('woff2'),
