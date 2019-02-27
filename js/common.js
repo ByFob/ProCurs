@@ -18,7 +18,7 @@ $(document).ready(function() {
 				nav:true,
 			}
 		},
-		navText : ""
+		navText : "1"
 	});
 
 

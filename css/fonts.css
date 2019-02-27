@@ -22,15 +22,9 @@
        url("../fonts/CleanvertisingLight/CleanvertisingLight.woff") format("woff"),
        url("../fonts/CleanvertisingLight/CleanvertisingLight.ttf") format("truetype"); }
 @font-face {
-<<<<<<< HEAD
     font-family: 'myFont';
     src: url('../fonts/myfont/myfont-webfont.eot'),
          url('../fonts/myfont/myfont-webfont.eot?#iefix') format('embedded-opentype'),
-=======
-    font-family: 'myfont';
-    src: url('../fonts/myfont/myfont-webfont.eot');
-    src: url('../fonts/myfont/myfont-webfont.eot?#iefix') format('embedded-opentype'),
->>>>>>> 911e8ac7da4924fac1606b30bfcb2ecf3fda8ea8
          url('../fonts/myfont/myfont-webfont.woff2') format('woff2'),
          url('../fonts/myfont/myfont-webfont.woff') format('woff'),
          url('../fonts/myfont/myfont-webfont.svg#myFont') format('svg');
