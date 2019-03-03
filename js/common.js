@@ -11,14 +11,14 @@ $(document).ready(function() {
 }).eq(0).addClass("active");
 
 	$(".owl-carousel").owlCarousel({
-		loop:true,
+		autoplay: true,
+		loop: true,
 		responsive : {
 			0 : {
-				items : 1,
-				nav:true,
+				items : 3,
+				autoplaySpeed : 500,
 			}
 		},
-		navText : "1"
 	});
 
 

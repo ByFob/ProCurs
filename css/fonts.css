@@ -23,9 +23,7 @@
        url("../fonts/CleanvertisingLight/CleanvertisingLight.ttf") format("truetype"); }
 @font-face {
     font-family: 'myfont';
-    src: url('../fonts/myfont/myfont-webfont.eot'),
-         url('../fonts/myfont/myfont-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/myfont/myfont-webfont.woff2') format('woff2'),
+    src: url('../fonts/myfont/myfont-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/myfont/myfont-webfont.woff') format('woff'),
          url('../fonts/myfont/myfont-webfont.svg#myFont') format('svg');
     font-weight: normal;
