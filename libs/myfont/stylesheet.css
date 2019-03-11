@@ -3,19 +3,19 @@
 
 
 @font-face {
-    font-family: 'myfont';
-    src: url('myfont-webfont.eot');
-    src: url('myfont-webfont.eot?#iefix') format('embedded-opentype'),
-         url('myfont-webfont.woff2') format('woff2'),
-         url('myfont-webfont.woff') format('woff'),
-         url('myfont-webfont.svg#myFont') format('svg');
+    font-family: "myfont";
+    src: url("myfont-webfont.eot");
+    src: url("myfont-webfont.eot?#iefix") format("embedded-opentype"),
+         url("myfont-webfont.woff2") format("woff2"),
+         url("myfont-webfont.woff") format("woff"),
+         url("myfont-webfont.svg#myFont") format("svg");
     font-weight: normal;
     font-style: normal;
 	
 }
 
 .my {
-	font-family: 'myfont';
+	font-family: "myfont";
 	font-size: 32px;
 	display: inline-block;
 	font-style: normal;
