@@ -2,9 +2,7 @@
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
-		form .button {
-			border-radius: 50%
-		}
+
 }
 
 /* Medium Devices, Desktops */
@@ -49,7 +47,19 @@
 		font-size: 18px;
 	}
 	.find_us .footer_h3 h3 {
-		
+		font-size: 32px;
+	}
+	.find_us .footer_h3 h3 {
+		float: none;
+	}
+	.find_us .find_wrp {
+		margin-left: 0;
+		text-align: center;
+	}
+	.find_us .find_wrp .wrapper {
+		max-width: 380px;
+		min-width: 220px;
+		display: inline-block;
 	}
 }
 
@@ -98,6 +108,12 @@
 	form {
 	    margin: 10px 0 0 10px;
 	    min-width: 340px;
+	}
+	.find_us .find_wrp .wrapper {
+		font-size: 12px;
+	}
+	.find_us .find_wrp .wrapper .tabs span {
+		width: 100%;
 	}
 }
 @media only screen and (max-width : 380px){
