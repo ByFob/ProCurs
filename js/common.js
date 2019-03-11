@@ -15,7 +15,7 @@ $(document).ready(function() {
 		loop: true,
 		responsive : {
 			0 : {
-				items : 3,
+				items : 1,
 				autoplaySpeed : 500,
 			}
 		},
